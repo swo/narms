@@ -1,0 +1,2 @@
+- Downloaded from [NARMS Now](https://wwwn.cdc.gov/narmsnow/) website on 24 August 2017
+- Cleaned up slightly into a tsv
